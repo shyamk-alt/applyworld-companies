@@ -1,0 +1,10 @@
+[
+  { "name": "OECD", "domain": "oecd.org", "hr_email": "hr@oecd.org", "careers_url": "https://oecd.org/careers", "country": "EU - Paris", "platform": "LinkedIn", "type": "Internship", "stipend": "EUR 1000" },
+  { "name": "UNDP", "domain": "undp.org", "hr_email": "careers@undp.org", "careers_url": "https://jobs.undp.org", "country": "EU - Remote", "platform": "Email", "type": "Internship", "stipend": "USD 500" },
+  { "name": "Doctolib", "domain": "doctolib.com", "hr_email": "hr@doctolib.com", "careers_url": "https://doctolib.com/careers", "country": "EU - Berlin", "platform": "Wellfound", "type": "Internship", "stipend": "EUR 1200" },
+  { "name": "WFP Italy", "domain": "wfp.org", "hr_email": "hr@wfp.org", "careers_url": "https://wfp.org/careers", "country": "EU - Rome", "platform": "Email", "type": "Internship", "stipend": "USD 1000" },
+  { "name": "Yandex", "domain": "yandex.com", "hr_email": "jobs@yandex-team.ru", "careers_url": "https://yandex.com/jobs", "country": "RU - Moscow", "platform": "Email", "type": "Internship", "stipend": "USD 800" },
+  { "name": "Gradcut", "domain": "gradcut.com", "hr_email": "careers@gradcut.com", "careers_url": "https://gradcut.com/careers", "country": "AU - Sydney", "platform": "Seek AU", "type": "Internship", "stipend": "AUD 1500" },
+  { "name": "Atlassian", "domain": "atlassian.com", "hr_email": "careers@atlassian.com", "careers_url": "https://atlassian.com/careers", "country": "AU - Sydney", "platform": "LinkedIn", "type": "Internship", "stipend": "AUD 2500" },
+  { "name": "Spotify EU", "domain": "spotify.com", "hr_email": "jobs@spotify.com", "careers_url": "https://lifeatspotify.com/jobs", "country": "EU - Stockholm", "platform": "LinkedIn", "type": "Internship", "stipend": "EUR 1000" }
+]
