@@ -1,0 +1,6 @@
+[
+  { "name": "Spotify EU", "domain": "spotify.com", "hr_email": "jobs@spotify.com", "careers_url": "https://lifeatspotify.com/jobs", "country": "EU - Stockholm", "platform": "LinkedIn", "type": "Job", "stipend": "EUR 4000" },
+  { "name": "Doctolib", "domain": "doctolib.com", "hr_email": "hr@doctolib.com", "careers_url": "https://doctolib.com/careers", "country": "EU - Berlin", "platform": "Wellfound", "type": "Job", "stipend": "EUR 3800" },
+  { "name": "Atlassian", "domain": "atlassian.com", "hr_email": "careers@atlassian.com", "careers_url": "https://atlassian.com/careers", "country": "AU - Sydney", "platform": "LinkedIn", "type": "Job", "stipend": "AUD 5000" },
+  { "name": "Yandex", "domain": "yandex.com", "hr_email": "jobs@yandex-team.ru", "careers_url": "https://yandex.com/jobs", "country": "RU - Moscow", "platform": "Email", "type": "Job", "stipend": "USD 3000" }
+]
